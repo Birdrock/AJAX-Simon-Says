@@ -1,2 +1,1 @@
-Phase-2-Practice-Assessment-Part-3
-==================================
+A simple simon-says style background color changer using jQuery and AJAX.
